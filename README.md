@@ -3,6 +3,21 @@ A Veevart logic test solution where you can input a list of items and a weight c
 
 You can open in the browser the [codepen](https://codepen.io/anzaiagithub/pen/ZEMgRGW?editors=0011) and open the console window to see the results.
 
-current Version: 1.0
+You can also make your own calls to the solution function with the (listOfItems,weightCapacity) arguments to see the results like the next example:
+```JAVASCRIPT
+const listOfItems = [
+    [item0.weigth , item0.value],
+    [item1.weigth , item1.value],
+    [item2.weigth , item2.value],
+    ...,
+    [itemN.weigth , itemN.value],
+];
+const capacity = 10;
+
+solution(listOfItems,capacity);
+```
+then, check in the console for your solution output.   
+
+current software Version: 1.0
 
 Not bonus points are implemented yet.

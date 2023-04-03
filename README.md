@@ -18,6 +18,6 @@ solution(listOfItems,capacity);
 ```
 then, check in the console for your solution output.   
 
-current software Version: 1.0
+current software Version: 1.1
 
-Not bonus points are implemented yet.
+Bonus point #2 were implemented with the same arguments as the basic solution.
